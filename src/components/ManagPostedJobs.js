@@ -50,8 +50,7 @@ export default function ManagPostedJobs() {
                     <TableCell align='center'>Date</TableCell>
                     <TableCell align='center'>Job Detail</TableCell>
                     <TableCell align='center'>Candidates</TableCell>
-                    <TableCell align='center'>Candidates</TableCell>
-                    <TableCell align='center'>Candidates</TableCell>
+
 
                 </TableRow>
             </TableHead>
